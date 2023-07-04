@@ -2,7 +2,7 @@
 UC 浏览器代理抓取
 
 # 版本变更
-- 若无法读写外部存储目录配置文件将保存在: /storage/emulated/0/Android/data/包名/UCDownloads
+- 若无法读写外部存储目录，配置文件将保存在: /storage/emulated/0/Android/data/包名/UCDownloads
 
 # 注意
 - 1.1 仅支持 UC浏览器 (15.5.1.1241) 和 UC浏览器极速版 (14.0.6.1168)
