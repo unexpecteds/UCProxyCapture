@@ -14,10 +14,10 @@ UC 浏览器代理抓取
 UC 浏览器自启动后会抓取已开启的免流代理信息，支持联通、电信，文件路径: /storage/emulated/0/UCDownloads
 
 # 使用教程
-1.在 Xposed 框架找到模块并开启，打开模块作用域设置，勾选“UC 浏览器”。
-2.打开“UC 浏览器”，打开设置→高级设置→浏览器专享流量，填写你的手机号，并点击开启
-3.打开“文件管理”，打开路径: /storage/emulated/0/UCDownloads 或 /storage/emulated/0/Android/data/com.UCMobile/files/UCDownloads 可以看到 xxx.ini 文件，那个就是代理信息文件
-4.如果嫌以上方法麻烦，打开 Telegram →打开 [Re: Fantasy City](https://t.me/ReFantasyCity) 频道→搜索 “#免流”，有抓取好的配置
+- 1.在 Xposed 框架找到模块并开启，打开模块作用域设置，勾选“UC 浏览器”。
+- 2.打开“UC 浏览器”，打开设置→高级设置→浏览器专享流量，填写你的手机号，并点击开启
+- 3.打开“文件管理”，打开路径: /storage/emulated/0/UCDownloads 或 /storage/emulated/0/Android/data/com.UCMobile/files/UCDownloads 可以看到 xxx.ini 文件，那个就是代理信息文件
+- 4.如果嫌以上方法麻烦，打开 Telegram →打开 [Re: Fantasy City](https://t.me/ReFantasyCity) 频道→搜索 “#免流”，有抓取好的配置
 
 **注意:**
 - 你必须下载对应版本的“UC 浏览器”
