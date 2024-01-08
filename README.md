@@ -1,6 +1,9 @@
 # UCProxyCapture
 UC 浏览器代理抓取
 
+# 简介
+UC 浏览器自启动后会抓取已开启的免流代理信息
+
 # 文件路径
 - /storage/emulated/0/UCDownloads
 - /storage/emulated/0/Download/UCDownloads
@@ -12,9 +15,6 @@ UC浏览器:
 
 UC浏览器极速版:
 - 15.5.2.1242(仅电信)
-
-# 简介
-UC 浏览器自启动后会抓取已开启的免流代理信息
 
 # 使用教程
 - 1.在 Xposed 框架找到模块并开启，打开模块作用域设置，勾选“UC 浏览器”。
