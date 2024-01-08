@@ -7,10 +7,10 @@ UC 浏览器代理抓取
 - /storage/emulated/0/Android/data/包名/UCDownloads
 
 # 支持浏览器的版本
-**UC浏览器:**
+UC浏览器:
 - 16.2.7.1278
 
-**UC浏览器极速版:**
+UC浏览器极速版:
 - 15.5.2.1242(仅电信)
 
 # 简介
